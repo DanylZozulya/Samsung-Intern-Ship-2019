@@ -8,4 +8,4 @@ To work with information when encoding and decoding data, all arithmetic operati
 
 The Reed-Solomon code over GF(q^m), which corrects t errors, requires 2t check characters and with it corrects arbitrary bursts of errors of length t or less. Reed-Solomon codes are optimal in terms of packet length and error correction capability - using 2t extra check characters to correct t errors (or less).
 
-![](Forward%20error%20correction/Screenshot_1.png)
+![](data/Screenshot_2.png)
